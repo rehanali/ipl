@@ -60,3 +60,7 @@ for(my_file in file_list){
 
 write.csv(match_dat_skip_final,"C:/Users/RAA090/Documents/Personal/ipl_data/t20_csv_male_collated/ball_by_ball_t20.csv")
 write.csv(match_info_final,"C:/Users/RAA090/Documents/Personal/ipl_data/t20_csv_male_collated/match_data_t20.csv")
+
+
+
+## uopdate
